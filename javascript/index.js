@@ -1,1 +1,1 @@
-console.log("battatta"+"1")
+console.log("cheetos")
