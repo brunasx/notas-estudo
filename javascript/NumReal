@@ -1,0 +1,9 @@
+// FUP dois numeros reais realize a soma e mostre o resultado 
+
+const num = 11
+const num2 = 12
+
+console.log(num + num2)
+
+
+

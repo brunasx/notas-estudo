@@ -1,0 +1,5 @@
+//FUP valor da hora do trabalhador e a quantidade de hrs trabalhadas e imprima o valor que o trabalhador devera receber no mes
+
+const ValorH = 20
+const ValorHT = 160
+
