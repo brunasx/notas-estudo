@@ -13,7 +13,7 @@
 //const numero6 = 10
 
 //console.log(numero5 * numero6)
-
-const numero7 = 60
-const numero8 = 2
-console.log(numero7 )
+// o prompt serve para receber dados do usuario 
+const numero1 = prompt("digite um numero:")
+const numero2 = prompt("digite outro numero:")
+alert("resultado de " + numero1 + " - " + numero2 + "=" + (numero1 - numero2))

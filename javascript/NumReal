@@ -3,7 +3,7 @@
 const num = 11
 const num2 = 12
 
-console.log(num + num2)
+alert("resultado de " + num + " - " + num2 + " =" + (num + num2))
 
 
 

@@ -3,3 +3,6 @@
 const ValorH = 20
 const ValorHT = 160
 
+const ValorD = 
+
+console.log(ValorH * ValorHT)

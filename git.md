@@ -17,3 +17,6 @@ quando for texto no js precisa de ""
 qualquer coisa dentro das "" o computador entende que é um texto
 
 texto = string ( toda vez q o professor se referi a um string significa texto)
+
+var = nunca usa 
+contatenar = juntar
