@@ -1,0 +1,18 @@
+//Peça um número inteiro e mostre a tabuada dele (do 0 até o 10).
+
+const inteiro = Number(prompt("Digite um número inteiro:"));
+const tabuada = inteiro * 0
+const tabuada = inteiro * 1
+const tabuada = inteiro * 2
+const tabuada = inteiro * 3
+const tabuada = inteiro * 4
+const tabuada = inteiro * 5
+const tabuada = inteiro * 6
+const tabuada = inteiro * 7
+const tabuada = inteiro * 8
+const tabuada = inteiro * 9
+const tabuada = inteiro * 10
+const resultado = inteiro * tabuada;
+
+alert("A tabuada do numero inteiro é: " + resultado);
+
